@@ -3,8 +3,11 @@
 ## LLM-система для генерации креативов локального кросс-маркетинга
 
 **Команда**
+
 → Анна https://github.com/annalzrv
+
 → Алексей https://github.com/aexms
+
 → Варвара https://github.com/fletchik
 
 
